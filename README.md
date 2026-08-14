@@ -68,5 +68,3 @@ A high-level dashboard providing a broader view of performance by geography, sup
 
 ## 👤 Author
 🔗 [LinkedIn](https://www.linkedin.com/in/your-alaa-ramadan-)
-
-2) شكل Badge احترافي (زي اللي بيتحط في المشاريع الكبيرة):
